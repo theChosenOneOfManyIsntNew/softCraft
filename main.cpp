@@ -22,7 +22,7 @@ int num3[MAX] = {0}; //weight
 set<int> account1;
 set<int> account2;
 
-unordered_map<int, int> mp; //account with sorted number, check not real NO.
+unordered_map<int, int> mp; //account with sorted number, check unreal NO.
 vector<int> actNo; //check real account NO.
 
 int actNum = 0; //useful account number
