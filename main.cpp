@@ -26,7 +26,7 @@ unordered_map<int, int> mp; //account with sorted number, check not real NO.
 vector<int> actNo; //check real account NO.
 
 int actNum = 0; //useful account number
-int dp[MAX/100][MAX/100]; //adjList
+int dp[MAX/100][MAX/100]; //adjMat
 int vis[MAX];
 int vis2[MAX];
 vector<int> path;
